@@ -1,4 +1,6 @@
-### linux-tricks
+![img](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+
+### Linux cheat sheet
 
 #### 1. Check list of users
 
