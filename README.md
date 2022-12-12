@@ -8,7 +8,7 @@ awk -F':' '{ print $1}' /etc/passwd
 
 ---
 
-### 2. Set permissions to file/folder
+#### 2. Set permissions to file/folder
 
 There is a file named script.ph (assume). There are two ways to represent permissions
 
